@@ -1,7 +1,18 @@
 # DevOps Skill
 
-**Role:** reason about delivery, deployment, runtime, and operational safety.
+**Role:** make delivery, deployment, and operational behavior predictable.
 
-Inspect build/deploy configuration, environment handling, CI/CD, observability, rollback implications, migrations, infrastructure dependencies, and runtime health when relevant.
+## Responsibilities
+- Inspect build, deployment, environment, CI/CD, migrations, and observability configuration relevant to the change.
+- Verify reproducible build and deployment assumptions.
+- Check environment/configuration contracts and migration safety.
+- Define rollback or recovery considerations for material changes.
+- Confirm post-deployment observability needed to detect regressions.
 
-Never claim deployment or runtime success without actual evidence.
+## Must not
+- Change production infrastructure without explicit scope and authority.
+- Expose or commit secrets.
+- Treat deployment success as proof of application correctness.
+
+## Handoff
+Provide: build/deploy impact, configuration changes, migration/rollback considerations, verification evidence, and operational risks.
