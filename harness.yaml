@@ -1,0 +1,45 @@
+# Harness Configuration
+version: 1
+name: jhayr-agentic-engineering-harness
+mode: agent-neutral
+
+lifecycle:
+  - discover
+  - define
+  - specify
+  - model
+  - architect
+  - plan
+  - contextualize
+  - implement
+  - verify
+  - review
+  - secure
+  - deliver
+  - deploy
+  - observe
+  - learn
+  - iterate
+
+principles:
+  inspect_before_modify: true
+  human_authority: true
+  scope_control: strict
+  verify_before_done: true
+  report_uncertainty: true
+
+truth_hierarchy:
+  - observed_runtime
+  - executable_repository_and_tests
+  - approved_architecture_and_specification
+  - planning_notes
+  - agent_assumptions
+
+feature_decomposition:
+  - product
+  - epic
+  - feature
+  - vertical_slice
+  - task
+  - implementation
+  - verification
