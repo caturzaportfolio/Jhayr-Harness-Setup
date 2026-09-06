@@ -3,23 +3,34 @@
 ## Objective
 
 ## Changes
+- 
 
-## Verification
-- Checks run:
-- Results:
+## Verification Evidence
+- Command/check:
+- Result:
+- Runtime evidence:
 
 ## Diff / Scope Review
+- [ ] Final diff inspected
+- [ ] Scope is limited to the objective
 
 ## Security Review
+- Status:
+- Findings:
 
-## Known Limitations
+## Known Limitations / Residual Risk
+- 
 
-## Commit
+## Git
+- Commit:
+- Branch:
+- Pull Request:
 
-## Pull Request
-
-## CI
-
-## Deployment
+## CI / Deployment
+- CI:
+- Deployment:
+- Rollback:
 
 ## Approval
+- Required:
+- Received:

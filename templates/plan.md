@@ -4,27 +4,37 @@
 
 ## Current State
 
-## Constraints
+## Evidence and Constraints
+- Repository evidence:
+- Approved specification:
+- Constraints:
 
 ## Affected Layers
-- Business/product
-- Domain
-- Architecture
-- Data
-- API/integration
-- Frontend/UX
-- Security
-- Testing
-- Deployment
-- Observability
+- [ ] Product/domain
+- [ ] Architecture
+- [ ] Data
+- [ ] API/integration
+- [ ] Frontend/UX
+- [ ] Security
+- [ ] Testing
+- [ ] Deployment
+- [ ] Observability
+
+## Approach
+Describe the smallest design that satisfies the objective and existing architecture.
 
 ## Steps
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
-## Verification
-- 
+## Verification Per Step
+- Step 1:
+- Step 2:
+- Step 3:
 
 ## Risks / Decisions Requiring Approval
+- 
+
+## Rollback / Recovery
 - 
